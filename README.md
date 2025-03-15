@@ -40,7 +40,7 @@ INSTALL VISUAL STUDIO CODE TO RUN THE CODE
 
 use the schematic provided to build the setup  
 
-https://youtu.be/Nxir13hVfEQ?si=uMgPHinHwQG-_ib0
+https://www.youtube.com/watch?v=Nxir13hVfEQ
 
 
 
