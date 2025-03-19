@@ -6,12 +6,12 @@
 
 # AUTO CRYSTAL DUPE BOT
 
-a shitty bot made by chatgpt with a few changes done by _kingdom_warrior_
+original by [KingdomWarrior](https://github.com/saifalam/kingdomWarrior)
 
 later reuploaded by [NotPxul](https://guns.lol/pxul) and [Boowalker](https://boowalker.lol)
 
-Kingdom left [ThunderStorm](https://discord.gg/thunderstorm) and used us to just promote his vids
-and his shitty code. so i took it, changed some shit up, and made it easier to use. 
+[ThunderStorm](https://discord.gg/thunderstorm)
+ 
 
 
 # REQUIREMENTS
