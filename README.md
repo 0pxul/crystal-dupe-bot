@@ -6,7 +6,7 @@
 
 # AUTO CRYSTAL DUPE BOT
 
-original by [KingdomWarrior](https://github.com/saifalam/kingdomWarrior)
+original by [KingdomWarrior](https://github.com/kingdom-warrior/)
 
 later reuploaded by [NotPxul](https://guns.lol/pxul) and [Boowalker](https://boowalker.lol)
 
